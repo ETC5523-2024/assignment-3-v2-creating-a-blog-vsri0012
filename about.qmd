@@ -1,13 +1,70 @@
 ---
 title: "About"
-image: profile.jpg
+image: Profile.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
+      text: GitHub
+      href: https://github.com/vsri0012
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/varun-sridhar-7069981b0/
+    - icon: envelope
+      text: Email
+      href: mailto:varunsridhar2901@gmail.com
+    - icon: geo-alt-fill
+      text: Location
+      href: "https://www.google.com/maps?q=Melbourne,+Australia"
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/varuuuuun_2901/
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I am Varun Sridhar, currently pursuing a Master of Business Analytics at Monash University. I have a passion for data science, coding, and fitness. This website showcases my data-driven projects, including my work analyzing WWE Championship reigns using historical data.
+
+## Interests:
+
+### Data Science & Analytics:
+
+- Data analytics and visualization
+- Machine learning
+- Sports statistics
+- Business analytics
+
+### Technical Skills:
+
+- Python, R, SQL
+
+I enjoy taking on high-impact projects that utilize data-driven methods to uncover insights. If you’re interested in collaborating on a project or have a query, feel free to reach out via GitHub or LinkedIn.
+
+## Contact:
+
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me via:
+
+- **GitHub**: [vsri0012](https://github.com/vsri0012)
+- **LinkedIn**: [Varun Sridhar](https://www.linkedin.com/in/varun-sridhar-7069981b0/)
+- **Email**: [varunsridhar2901@gmail.com](mailto:varunsridhar2901@gmail.com)
+- **Location**: [Melbourne, Australia](https://www.google.com/maps?q=Melbourne,+Australia)
+- **Instagram**: [varuuuuun_2901](https://www.instagram.com/varuuuuun_2901/)
+
+<hr>
+
+<div class="about-links">
+  <a href="https://github.com/vsri0012" class="about-link" target="_blank">
+    <i class="bi bi-github"></i> GitHub
+  </a>
+  <a href="https://www.linkedin.com/in/varun-sridhar-7069981b0/" class="about-link" target="_blank">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+  <a href="mailto:varunsridhar2901@gmail.com" class="about-link" target="_blank">
+    <i class="bi bi-envelope"></i> Email
+  </a>
+  <a href="https://www.google.com/maps?q=Melbourne,+Australia" class="about-link" target="_blank">
+    <i class="bi bi-geo-alt-fill"></i> Location
+  </a>
+  <a href="https://www.instagram.com/varuuuuun_2901/" class="about-link" target="_blank">
+    <i class="bi bi-instagram"></i> Instagram
+  </a>
+</div>
