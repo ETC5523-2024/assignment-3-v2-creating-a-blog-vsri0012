@@ -2,22 +2,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Varun Sridhar",
     "section": "",
     "text": "I am Varun Sridhar, currently pursuing a Master of Business Analytics at Monash University. I have a passion for data science, coding, and fitness. This website showcases my data-driven projects, including my work analyzing WWE Championship reigns using historical data."
   },
   {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
-    "title": "About",
+    "title": "Varun Sridhar",
     "section": "Interests:",
     "text": "Interests:\n\nData Science & Analytics:\n\nData analytics and visualization\nMachine learning\nSports statistics\nBusiness analytics\n\n\n\nTechnical Skills:\n\nPython, R, SQL\n\nI enjoy taking on high-impact projects that utilize data-driven methods to uncover insights. If you’re interested in collaborating on a project or have a query, feel free to reach out via GitHub or LinkedIn."
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About",
+    "title": "Varun Sridhar",
     "section": "Contact:",
     "text": "Contact:\nIf you’re interested in collaborating on a project or have any questions, feel free to reach out to me via:\n\nGitHub: vsri0012\nLinkedIn: Varun Sridhar\nEmail: varunsridhar2901@gmail.com\nLocation: Melbourne, Australia\nInstagram: varuuuuun_2901\n\n\n\n  GitHub    LinkedIn    Email    Location    Instagram"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Analyzing WWE Championship Reigns: A Data-Driven Exploration",
+    "section": "",
+    "text": "The WWE Championship is one of the most prestigious titles in professional wrestling, awarded to a wrestler who wins key matches, often during major WWE events. A WWE Championship reign refers to the period during which a wrestler holds the championship title, from the time they win it until they lose it in a subsequent match.\nThis blog post explores the history of WWE Championship reigns, analyzing how the length of title reigns has evolved across different eras of wrestling. By examining historical data, we aim to uncover patterns and trends that may reveal how WWE’s approach to its championships has changed over time."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Analyzing WWE Championship Reigns: A Data-Driven Exploration\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 4, 2022\n\n\nVarun Sridhar\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html#figure-analysis",
+    "href": "posts/welcome/index.html#figure-analysis",
+    "title": "Analyzing WWE Championship Reigns: A Data-Driven Exploration",
+    "section": "Figure Analysis",
+    "text": "Figure Analysis\nFigure 1 visualizes the top 20 WWE wrestlers by average reign length, separated by gender. This breakdown allows for clearer comparisons between male and female wrestlers and provides insight into how reign lengths differ across gender lines.\n\nKey Insights\n1. Long Reigns Across Genders\n\nBoth men and women have wrestlers with long average reign lengths, though Bruno Sammartino and The Fabulous Moolah stand out with significantly longer reigns in their respective categories.\nBruno Sammartino’s reign length exceeds 2,000 days, while Moolah held the title for an average of over 1,500 days, highlighting the dominance of these figures in their eras.\n\n2. Shorter Reigns in the Modern Era\n\nFor both genders, modern wrestlers tend to have shorter reigns compared to their earlier counterparts.\nJohn Cena and Ronda Rousey, despite being some of the biggest names in WWE today, have much shorter reigns than wrestlers from earlier eras.\n\n3. Diversity of Reign Lengths\n\nFemale wrestlers such as Sensational Sherri and Rockin’ Robin have significantly longer reigns compared to their modern-day peers, like Ronda Rousey.\nMale wrestlers show a wider diversity in reign lengths, from long-reigning champions like Bob Backlund to modern-day wrestlers like John Cena and Brock Lesnar, who have more frequent but shorter reigns.\n\n\n\nSummary\nThis faceted analysis provides a deeper understanding of how WWE Championship reigns have evolved across genders and eras. While earlier periods, particularly the Pre-1980s, were dominated by long reigns, such as Bruno Sammartino and The Fabulous Moolah, modern eras have seen shorter, more frequent title changes, reflecting WWE’s shift towards faster-paced storytelling. Despite these trends, the diversity in reign lengths—especially among male wrestlers—indicates that while frequent title changes are the norm today, certain superstars still manage to achieve extended reigns. Overall, this analysis underscores the impact of evolving entertainment demands on WWE’s booking strategies and how champions, both male and female, have adapted to these changes over time."
+  },
+  {
+    "objectID": "posts/welcome/index.html#table-analysis",
+    "href": "posts/welcome/index.html#table-analysis",
+    "title": "Analyzing WWE Championship Reigns: A Data-Driven Exploration",
+    "section": "Table Analysis",
+    "text": "Table Analysis\nTable 1 provides insights into how WWE Championship reign lengths have evolved over time, showcasing distinct trends across three historical eras:\n\nKey Observations:\n1. Longest Reigns in the Pre-1980 Era\n\nPre-1980 reigns average 331.2 days, the longest of the three eras. This aligns with the traditional strategy of having fewer title changes, which allowed champions to hold the belt for extended periods.\nWrestlers like Bruno Sammartino and Bob Backlund are prime examples of champions who maintained long reigns during this era. This was likely due to the WWE’s approach at the time, where championships were used to build prestige for a few key wrestlers over many years.\n\n2. Shorter Reigns in the 1980s-1990s\n\nThe 1980s-1990s saw a significant reduction in average reign length to 118.5 days. This era marked a shift in WWE’s strategy as professional wrestling became more focused on entertainment.\nChampions like Hulk Hogan and Randy Savage still had substantial reigns, but the frequency of title defenses and changes increased as WWE transitioned into a more dynamic and faster-paced environment, with frequent title changes to maintain excitement and audience engagement.\n\n3. Slight Increase in the 2000s and Beyond\n\nIn the 2000s and later, the average reign length slightly increased to 122.6 days, though still much shorter than the Pre-1980 era. This era reflects WWE’s adaptation to the modern entertainment landscape, where titles are frequently defended, but certain wrestlers, like John Cena and Brock Lesnar, have held longer reigns in comparison to others.\nWhile the average reign length in this era is close to that of the 1980s-1990s, there is a more pronounced pattern of short, frequent reigns combined with occasional longer reigns by top stars, a reflection of modern-day booking strategies that prioritize storyline flexibility and fan engagement.\n\n\n\nSummary:\nThe table highlights the dramatic shift in reign lengths over the decades. While earlier eras (Pre-1980) were characterized by long, stable title reigns, the later periods (1980s onward) have seen a significant decrease in average reign lengths, reflecting changes in how WWE manages its championships. This evolution is likely driven by changing audience expectations, more frequent pay-per-view events, and the need for dynamic, fast-moving storylines."
+  },
+  {
+    "objectID": "posts/welcome/index.html#top-20-average-reign-length-male-and-female",
+    "href": "posts/welcome/index.html#top-20-average-reign-length-male-and-female",
+    "title": "Analyzing WWE Championship Reigns: A Data-Driven Exploration",
+    "section": "Top 20 Average Reign Length (Male and Female)",
+    "text": "Top 20 Average Reign Length (Male and Female)\n\n\n\n\n\n\n\n\nFigure 1: Bar chart showing the top 20 wrestlers by average reign length, separated by gender. The chart visualizes wrestlers with the longest average reigns in days, with a gradient color scale from blue (shorter reigns) to red (longer reigns), allowing for a clear comparison between male and female wrestlers."
+  },
+  {
+    "objectID": "posts/welcome/index.html#average-reign-by-era",
+    "href": "posts/welcome/index.html#average-reign-by-era",
+    "title": "Analyzing WWE Championship Reigns: A Data-Driven Exploration",
+    "section": "Average Reign By Era",
+    "text": "Average Reign By Era\n\n\n\n\nTable 1: Table showing the average reign length by era, highlighting how reign lengths have evolved over time. The Pre-1980 era had the longest average reigns, while the 1980s-1990s and 2000s-present eras show much shorter reign lengths.\n\n\n\n\n\nTable showing the average reign length by era, highlighting how reign lengths have evolved over time.\n\n\nEra\nAverage Reign Length (days)\n\n\n\n\n1980s-1990s\n118.4846\n\n\n2000s and later\n122.5714\n\n\nPre-1980\n331.2333"
   }
 ]
