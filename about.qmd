@@ -1,6 +1,6 @@
 ---
-title: "Varun Sridhar"
-image: Profile.jpg
+title: "About"
+image: Profile.png
 about:
   template: trestles
   links:
